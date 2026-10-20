@@ -15,6 +15,6 @@ This project is a web-based application developed to simplify university student
 ## Project Structure
 - `/frontend` - User interface code
 - `/backend` - API and business logic
-- `/docs` - Project plans and reports (including SDP)
+- `/docs` - Project plans and reports 
 
 ## Team Members

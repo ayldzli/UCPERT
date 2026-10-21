@@ -10,7 +10,8 @@
 ## 2. Stakeholders and Users
 **Students:**   
 - **Goals:** Build course schedules quickly, view graduation status, and select the right electives
-- **Constraints:** Credit limits, time conflicts, mandatory prerequisites  
+- **Constraints:** Credit limits, time conflicts, mandatory prerequisites
+<a/>  
 **Academic Advisors:**
 - **Goals:** Quickly approve student schedules and reduce advising workloads
 - **Constraints:** Time constraints and the difficulty of reviewing thousands of students individually
@@ -23,7 +24,8 @@
 Three initial success criteria:
 - 100% accurate detection of time conflicts in student schedules
 - Generating a course schedule in under 2 minutes
-- At least 80% of users finding recommended electives aligned with their major  
+- At least 80% of users finding recommended electives aligned with their major
+<a/>
 **Major assumptions and dependencies:** Departmental curriculum data is assumed to be up-to-date and accurate
 
 ## 4. Initial Process and Work Plan

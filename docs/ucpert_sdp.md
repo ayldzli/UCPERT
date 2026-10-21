@@ -4,7 +4,7 @@
 ## 1. Problem and Project Context
 - **What problem are we solving?** The difficulties students face when tracking graduation requirements, avoiding schedule conflicts, navigating complex prerequisite structures, and choosing elective courses
 - **Who experiences the problem?** Undergraduate and associate degree students, academic advisors, and departmental secretaries
-- **What evidence or observation supports the problem?** Incorrect course registrations leading to delayed graduations, high workloads during advising hours, and students being unaware of which
+- **What evidence or observation supports the problem?** Incorrect course registrations leading to delayed graduations, high workloads during advising hours, and students being unaware of which courses to select as elective
 - **What is the intended outcome for users or an organization?** Enabling students to create error-free, optimized course schedules, automating degree audits, and providing smart, career-oriented elective recommendations
 
 ## 2. Stakeholders and Users

@@ -18,3 +18,6 @@ This project is a web-based application developed to simplify university student
 - `/docs` - Project plans and reports 
 
 ## Team Members
+@yusufabdblr
+@egeerdgrl
+@ayldzli

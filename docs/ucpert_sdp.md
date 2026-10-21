@@ -27,7 +27,7 @@ Three to five initial success criteria:
 **Major assumptions and dependencies:** Departmental curriculum data is assumed to be up-to-date and accurate
 
 ## 4. Initial Process and Work Plan
-**Process model:** 2-week sprints.
+**Process model:** 2-week sprints.       
 **Team roles and responsibilities:** Backend Developer, Frontend Developer, QA/Testing Engineer
 Initial milestones through Week 12:
 - **Week 4:** Requirements analysis and SDP submission
@@ -46,7 +46,7 @@ Initial milestones through Week 12:
 - **Performance:** Schedule conflict queries responding under 200 ms
 - **Usability:** Mobile and desktop responsive design
 - **Reliability:** Security and encryption of student data
-**Initial context or system-boundary diagram:** Student -> Web Interface (Frontend) -> REST API (Backend) -> PostgreSQL (Database)
+**Initial context or system-boundary diagram:** Student -> Web Interface (Frontend) -> REST API (Backend) -> PostgreSQL (Database)      
 **Potential Drawbacks:**
 - Choosing python as the backend language might not get us to the previously chosen under 2 min. recommedation engine
 - PostgreSQL might be an overkill for the initial release
@@ -55,15 +55,20 @@ Initial milestones through Week 12:
 A possible design idea for student interaction is given in "design_idea.pdf"
 
 ## 7. Repository and Collaboration Setup
-**GitHub Repository URL:** https://github.com/ayldzli/UCPERT
+**GitHub Repository URL:** https://github.com/ayldzli/UCPERT       
 **Branch and pull-request workflow:** GitFlow model (main, dev, feature/* branches with mandatory pull requests)
 
 ## 8. Initial Risk Register
-- **Risk:** Irregular curriculum data formats. (Likelihood: High, Impact: High) -> **Mitigation:** Creating a standardized JSON template
-- **Risk:** Slow execution of the recommendation algorithm. (Likelihood: Medium, Impact: Medium) -> **Mitigation:** Implementing data caching mechanisms
-- **Risk:** Team member falling behind on workload. (Likelihood: Low, Impact: High) -> **Mitigation:** Early scheduling of tasks and flexible backup planning
-- **Risk:** Logic bugs in the schedule conflict algorithm. (Likelihood: Medium, Impact: High) -> **Mitigation:** Writing comprehensive unit tests
-- **Risk:** UI breaking on mobile devices. (Likelihood: Medium, Impact: Low) -> **Mitigation:** Potentially adopting a mobile-first approach using Tailwind CSS
+- **Risk:** Irregular curriculum data formats. (Likelihood: High, Impact: High)
+- **Mitigation:** Creating a standardized JSON template
+- **Risk:** Slow execution of the recommendation algorithm. (Likelihood: Medium, Impact: Medium)
+- **Mitigation:** Implementing data caching mechanisms
+- **Risk:** Team member falling behind on workload. (Likelihood: Low, Impact: High)
+- **Mitigation:** Early scheduling of tasks and flexible backup planning
+- **Risk:** Logic bugs in the schedule conflict algorithm. (Likelihood: Medium, Impact: High)
+- **Mitigation:** Writing comprehensive unit tests
+- **Risk:** UI breaking on mobile devices. (Likelihood: Medium, Impact: Low)
+- **Mitigation:** Potentially adopting a mobile-first approach using Tailwind CSS
 
 ## 9. Responsible AI-Use Plan
 - **Which activities may use them:** Code scaffolding, code generation, algorithm optimization, and documentation assistance

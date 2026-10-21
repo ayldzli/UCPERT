@@ -10,7 +10,7 @@
 ## 2. Stakeholders and Users
 **Students:**   
 - **Goals:** Build course schedules quickly, view graduation status, and select the right electives
-- **Constraints:** Credit limits, time conflicts, mandatory prerequisites           
+- **Constraints:** Credit limits, time conflicts, mandatory prerequisites  
 **Academic Advisors:**
 - **Goals:** Quickly approve student schedules and reduce advising workloads
 - **Constraints:** Time constraints and the difficulty of reviewing thousands of students individually

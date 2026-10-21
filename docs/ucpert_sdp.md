@@ -8,9 +8,9 @@
 - **What is the intended outcome for users or an organization?** Enabling students to create error-free, optimized course schedules, automating degree audits, and providing smart, career-oriented elective recommendations
 
 ## 2. Stakeholders and Users
-**Students:**
+**Students:**   
 - **Goals:** Build course schedules quickly, view graduation status, and select the right electives
-- **Constraints:** Credit limits, time conflicts, mandatory prerequisites     
+- **Constraints:** Credit limits, time conflicts, mandatory prerequisites           
 **Academic Advisors:**
 - **Goals:** Quickly approve student schedules and reduce advising workloads
 - **Constraints:** Time constraints and the difficulty of reviewing thousands of students individually

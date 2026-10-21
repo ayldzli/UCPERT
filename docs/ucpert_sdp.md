@@ -20,10 +20,10 @@
 **In scope for the first release:** User registration/login, curriculum upload (JSON/PDF based), schedule conflict detection, prerequisite validation, and a basic rule-based elective recommendation engine         
 **Explicitly out of scope:** Direct live integration with official university automation systems (manual course list uploads will be used initially)
 
-Three to five initial success criteria:
+Three initial success criteria:
 - 100% accurate detection of time conflicts in student schedules
 - Generating a course schedule in under 2 minutes
-- At least 80% of users finding recommended electives aligned with their major
+- At least 80% of users finding recommended electives aligned with their major  
 **Major assumptions and dependencies:** Departmental curriculum data is assumed to be up-to-date and accurate
 
 ## 4. Initial Process and Work Plan

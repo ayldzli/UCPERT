@@ -17,7 +17,7 @@
 **Possible Conflicts:** Desired elective courses reaching full capacity or advisor rejection of schedules due to time conflicts
 
 ## 3. Scope
-**In scope for the first release:** User registration/login, curriculum upload (JSON/PDF based), schedule conflict detection, prerequisite validation, and a basic rule-based elective recommendation engine
+**In scope for the first release:** User registration/login, curriculum upload (JSON/PDF based), schedule conflict detection, prerequisite validation, and a basic rule-based elective recommendation engine         
 **Explicitly out of scope:** Direct live integration with official university automation systems (manual course list uploads will be used initially)
 
 Three to five initial success criteria:
@@ -28,7 +28,7 @@ Three to five initial success criteria:
 
 ## 4. Initial Process and Work Plan
 **Process model:** 2-week sprints.       
-**Team roles and responsibilities:** Backend Developer, Frontend Developer, QA/Testing Engineer
+**Team roles and responsibilities:** Backend Developer, Frontend Developer, QA/Testing Engineer      
 Initial milestones through Week 12:
 - **Week 4:** Requirements analysis and SDP submission
 - **Week 6:** Database design and core API integrations
@@ -46,7 +46,7 @@ Initial milestones through Week 12:
 - **Performance:** Schedule conflict queries responding under 200 ms
 - **Usability:** Mobile and desktop responsive design
 - **Reliability:** Security and encryption of student data
-**Initial context or system-boundary diagram:** Student -> Web Interface (Frontend) -> REST API (Backend) -> PostgreSQL (Database)      
+**Initial context or system-boundary diagram:** Student -> Web Interface (Frontend) -> REST API (Backend) -> PostgreSQL (Database)          
 **Potential Drawbacks:**
 - Choosing python as the backend language might not get us to the previously chosen under 2 min. recommedation engine
 - PostgreSQL might be an overkill for the initial release
@@ -55,7 +55,7 @@ Initial milestones through Week 12:
 A possible design idea for student interaction is given in "design_idea.pdf"
 
 ## 7. Repository and Collaboration Setup
-**GitHub Repository URL:** https://github.com/ayldzli/UCPERT       
+**GitHub Repository URL:** https://github.com/ayldzli/UCPERT          
 **Branch and pull-request workflow:** GitFlow model (main, dev, feature/* branches with mandatory pull requests)
 
 ## 8. Initial Risk Register

@@ -27,7 +27,7 @@ Three to five initial success criteria:
 **Major assumptions and dependencies:** Departmental curriculum data is assumed to be up-to-date and accurate
 
 ## 4. Initial Process and Work Plan
-**Process model: 2-week sprints.**
+**Process model:** 2-week sprints.
 **Team roles and responsibilities:** Backend Developer, Frontend Developer, QA/Testing Engineer
 Initial milestones through Week 12:
 - **Week 4:** Requirements analysis and SDP submission
